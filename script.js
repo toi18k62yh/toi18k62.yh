@@ -163,7 +163,7 @@ const questions = [
                 scores: { J: 0, P: +1 },
             },
             E: {
-                text: "Chạy đi về lớp, bỏ qua con mèo.",
+                text: "Đi về lớp, bỏ qua con mèo.",
                 scores: { J: +1, P: 0 },
             },
         },
