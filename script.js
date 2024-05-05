@@ -1,7 +1,7 @@
 const questions = [
     {
         question: "Q1/12: Một buổi sáng thứ Hai đầu tuần, bạn thức dậy từ một giấc mơ: Người bạn thân nhất đã phản bội bạn và đi theo người bạn ghét. Bạn sẽ làm gì?",
-        image: "media/test.gif",
+        image: "media/Q1.gif",
         answers: {
             F: {
                 text: "Suy nghĩ về chuyện của hai đứa trong thời gian gần, liệu giấc mơ có phải điềm báo?!",
